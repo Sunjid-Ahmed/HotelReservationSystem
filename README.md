@@ -53,7 +53,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📧 Contact
 For any inquiries or support, feel free to reach out:
-- **Email:** your-email@example.com
+- **Email:** sunjidahmed1992@gmail.com
 - **GitHub:** [Sunjid-Ahmed](https://github.com/Sunjid-Ahmed)
 
 ---
